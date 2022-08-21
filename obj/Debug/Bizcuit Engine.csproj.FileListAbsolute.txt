@@ -1,0 +1,35 @@
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\Bizcuit Engine.exe.config
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\Bizcuit Engine.exe
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\Bizcuit Engine.pdb
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\sfml-audio.dll
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\sfml-graphics.dll
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\sfml-system.dll
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\sfml-window.dll
+G:\programs\visual studios projects\Bizcuit Engine\obj\Debug\Bizcuit Engine.csproj.AssemblyReference.cache
+G:\programs\visual studios projects\Bizcuit Engine\obj\Debug\Bizcuit Engine.csproj.CoreCompileInputs.cache
+G:\programs\visual studios projects\Bizcuit Engine\obj\Debug\Bizcuit Engine.csproj.CopyComplete
+G:\programs\visual studios projects\Bizcuit Engine\obj\Debug\Bizcuit Engine.exe
+G:\programs\visual studios projects\Bizcuit Engine\obj\Debug\Bizcuit Engine.pdb
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\csfml-audio-2.dll
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\csfml-graphics-2.dll
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\csfml-system-2.dll
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\csfml-window-2.dll
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\openal32.dll
+G:\programs\visual studios projects\Bizcuit Engine\bin\Debug\OpenTK.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\csfml-audio-2.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\csfml-graphics-2.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\csfml-system-2.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\csfml-window-2.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\openal32.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\OpenTK.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\Bizcuit Engine.exe.config
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\Bizcuit Engine.exe
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\Bizcuit Engine.pdb
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\sfml-audio.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\sfml-graphics.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\sfml-system.dll
+D:\programs\visual studios projects\Bizcuit Engine\bin\Debug\sfml-window.dll
+D:\programs\visual studios projects\Bizcuit Engine\obj\Debug\Bizcuit Engine.csprojAssemblyReference.cache
+D:\programs\visual studios projects\Bizcuit Engine\obj\Debug\Bizcuit Engine.csproj.CopyComplete
+D:\programs\visual studios projects\Bizcuit Engine\obj\Debug\Bizcuit Engine.exe
+D:\programs\visual studios projects\Bizcuit Engine\obj\Debug\Bizcuit Engine.pdb
